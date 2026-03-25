@@ -1,0 +1,50 @@
+[
+  {
+    "id": "comp_001",
+    "name": "Jasper AI",
+    "pricing": {
+      "tier": "Pro",
+      "price_usd": 49 
+    },
+    "landing_page_claim": {
+      "jargon": "Enterprise-grade LLM orchestration",
+      "plain_english": "Powerful AI built for big companies"
+    },
+    "g2_reviews": {
+      "positive": ["High quality templates", "Brand voice feature is accurate"],
+      "negative": ["A bit too expensive for solo freelancers", "Steep learning curve"]
+    }
+  },
+  {
+    "id": "comp_002",
+    "name": "Copy.ai",
+    "pricing": {
+      "tier": "Pro",
+      "price_usd": 49
+    },
+    "landing_page_claim": {
+      "jargon": "SOC2 Compliant Zero-Retention Architecture",
+      "plain_english": "Highly secure and doesn't store your private data"
+    },
+    "g2_reviews": {
+      "positive": ["Great for social media workflows", "Easy to use UI"],
+      "negative": ["Sometimes hallucinates facts", "Output can be repetitive", "Customer support takes days to respond"]
+    }
+  },
+  {
+    "id": "comp_003",
+    "name": "Rytr",
+    "pricing": {
+      "tier": "Unlimited",
+      "price_usd": 9
+    },
+    "landing_page_claim": {
+      "jargon": "Proprietary NLP Context Window Optimization",
+      "plain_english": "Remembers exactly what you were writing about"
+    },
+    "g2_reviews": {
+      "positive": ["Very affordable", "Fast generation speed"],
+      "negative": ["Customer support takes days to respond", "Basic features only", "Support ignored my refund request"]
+    }
+  }
+]
